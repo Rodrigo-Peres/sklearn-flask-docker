@@ -81,3 +81,5 @@ You will need to use `sudo` for these commands, however best practice is to add 
 ### Delete The Container
 
 `docker rm sklearn-flask-docker`
+
+### Auth test
